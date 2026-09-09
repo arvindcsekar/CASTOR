@@ -73,7 +73,7 @@ Full data: [`docs/castor-default-data.md`](docs/castor-default-data.md).
 
 ## Key Result
 
-Larger radii and higher explosion energies increase both total and band-specific luminosity, and shift peak emission closer to CASTOR's bands — improving detectability. Higher progenitor mass has the opposite effect, lowering both luminosity and band-specific detectability. As temperature rises, emission shifts toward the extreme-UV/soft X-ray, moving outside CASTOR's UV band even as total flux increases — so **large radius, low mass, and high explosion energy** together maximize early-time detectability in CASTOR's target bands.
+We note that larger radii and higher explosion energies increase both total and band-specific luminosity, and shift peak emission closer to CASTOR's bands, all of which improve detectability. On the other hand, a higher progenitor mass has the opposite effect, lowering both luminosity and band-specific detectability. As temperature rises, emission shifts toward the extreme-UV/soft X-ray, moving outside CASTOR's UV band even as total flux increases. Given this, we see that a **large radius, low mass, and high explosion energy** together maximize early-time detectability in CASTOR's target bands.
 
 ## Repository Structure
 
