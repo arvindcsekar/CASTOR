@@ -1,6 +1,6 @@
 # CASTOR
 
-Modelling early-time (shock breakout) emission of Type IIP supernovae in the target UV, u, and g bands of the [CASTOR](https://www.castormission.org/) (Cosmological Advanced Survey Telescope for Optical and ultraviolet Research) space telescope, and how detectability varies with progenitor radius, explosion energy, and mass.
+Modelling early-time (shock breakout) emission of Type IIP supernovae in the target uv, u, and g bands of the [CASTOR](https://www.castormission.org/) (Cosmological Advanced Survey Telescope for Optical and ultraviolet Research) space telescope, and how detectability varies with progenitor radius, explosion energy, and mass.
 
 ## Overview
 
